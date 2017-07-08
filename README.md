@@ -1,0 +1,2 @@
+# blog
+about develop technology
